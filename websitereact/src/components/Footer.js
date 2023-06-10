@@ -7,6 +7,7 @@ import '../Style/Footer.css'
 
 export function Footer() {
   return (
+    
     <div className='footer'>
       <div className='socialMedia'> <InstagramIcon/> <FacebookIcon/> <TwitterIcon /> <WhatsAppIcon />  </div>
       <p> &copy; 2023 amansharma.com</p>

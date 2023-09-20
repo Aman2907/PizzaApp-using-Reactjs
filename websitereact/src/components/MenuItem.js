@@ -1,7 +1,7 @@
 import React from 'react'
 import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
 
-
+ 
 function MenuItem({ image, name, price }) {
   return (
     <div className='menuItem'>

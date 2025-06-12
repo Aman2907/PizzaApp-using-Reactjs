@@ -20,6 +20,19 @@ Pizza Mania is a simple and intuitive web application designed for pizza lovers 
 
 
 
+# Clone the repository
+git clone https://github.com/your-username/pizza-mania.git
+
+# Navigate to the project folder
+cd pizza-mania
+
+# Install dependencies
+npm install
+
+# Run the application
+npm start
+
+
 
 Pizza Mania is a web application for Pizza delivery. It’s a simple food delivery application.
 ![Screenshot (2869)](https://github.com/Aman2907/PizzaApp-using-Reactjs/assets/74008888/92474d3e-92ad-4b4b-a44c-4f475f89e41f)

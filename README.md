@@ -19,7 +19,6 @@ Pizza Mania is a simple and intuitive web application designed for pizza lovers 
 📱 Responsive design for both desktop and mobile devices<br/>
 
 
-
 # Clone the repository
 git clone https://github.com/your-username/pizza-mania.git
 

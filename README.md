@@ -1,6 +1,7 @@
 # PizzaMania  - https://pizza-web-ami.vercel.app/   
 
 🍕 Pizza Mania – Online Pizza Delivery App <br/>
+
 Pizza Mania is a simple and intuitive web application designed for pizza lovers to browse, customize, and order their favorite pizzas online. Built with modern web technologies, it simulates a real-world food delivery system with essential features like a dynamic menu, cart management, order tracking, and user authentication.
 
 🚀 Features <br/>
